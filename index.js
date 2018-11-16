@@ -4,22 +4,22 @@ var cityList = require("./lib/city.json")
 
 var country_state_city = {
 	getCountryById: function(id) {
-		if(!isNaN(+(id)))
-			return countryList[+(id)]
-		else
-			return ""
+		var country = countryList.filter(function(data) {
+			return data.id == id
+		})
+		return country[0];
 	},
 	getStateById: function(id) {
-		if(!isNaN(+(id)))
-			return stateList[+(id)];
-		else
-			return ""
+		var state = stateList.filter(function(data) {
+			return data.id == id
+		})
+		return state[0];
 	},
 	getCityById: function(id) {
-		if(!isNaN(+(id)))
-			return cityList[+(id)];
-		else
-			return ""
+		var city = cityList.filter(function(data) {
+			return data.id == id
+		})
+		return city[0];
 	},
 	getStatesOfCountry: function(countryId) {
 		var states = stateList.filter(function(value, index) {
