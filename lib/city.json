@@ -193510,4 +193510,50 @@
 	"id": "48405",
 	"name": "Williams Lake",
 	"state_id": "664"
-  }]
+  },
+  {
+	"id": "48406",
+	"name": "Washington DC",
+	"state_id": "3929"
+  },
+  {
+	"id": "48407",
+	"name": "Fredericton",
+	"state_id": "666"
+  },
+  {
+	"id": "48408",
+	"name": "Moncton",
+	"state_id": "666"
+  },
+  {
+	"id": "48409",
+	"name": "Saint John",
+	"state_id": "666"
+  },
+  {
+	"id": "48410",
+	"name": "St Johns",
+	"state_id": "667"
+  },
+  {
+	"id": "48411",
+	"name": "Yellowknife",
+	"state_id": "668"
+  },
+  {
+	"id": "48412",
+	"name": "Halifax",
+	"state_id": "669"
+  },
+  {
+	"id": "48413",
+	"name": "Cape Breton",
+	"state_id": "669"
+  },
+  {
+	"id": "48414",
+	"name": "Charlottetown",
+	"state_id": "672"
+  }
+]

@@ -15747,10 +15747,6 @@
 	"name": "Louisiana",
 	"country_id": "231"
 }, {
-	"id": "3940",
-	"name": "Lowa",
-	"country_id": "231"
-}, {
 	"id": "3941",
 	"name": "Maine",
 	"country_id": "231"
@@ -15761,10 +15757,6 @@
 }, {
 	"id": "3943",
 	"name": "Massachusetts",
-	"country_id": "231"
-}, {
-	"id": "3944",
-	"name": "Medfield",
 	"country_id": "231"
 }, {
 	"id": "3945",
@@ -15827,20 +15819,12 @@
 	"name": "Oklahoma",
 	"country_id": "231"
 }, {
-	"id": "3961",
-	"name": "Ontario",
-	"country_id": "231"
-}, {
 	"id": "3962",
 	"name": "Oregon",
 	"country_id": "231"
 }, {
 	"id": "3963",
 	"name": "Pennsylvania",
-	"country_id": "231"
-}, {
-	"id": "3964",
-	"name": "Ramey",
 	"country_id": "231"
 }, {
 	"id": "3965",
@@ -15855,20 +15839,12 @@
 	"name": "South Dakota",
 	"country_id": "231"
 }, {
-	"id": "3968",
-	"name": "Sublimity",
-	"country_id": "231"
-}, {
 	"id": "3969",
 	"name": "Tennessee",
 	"country_id": "231"
 }, {
 	"id": "3970",
 	"name": "Texas",
-	"country_id": "231"
-}, {
-	"id": "3971",
-	"name": "Trimble",
 	"country_id": "231"
 }, {
 	"id": "3972",
