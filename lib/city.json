@@ -9281,7 +9281,7 @@
 }, {
 	"id": "2321",
 	"name": "Mehara Gaon",
-	"state_id": "21);"
+	"state_id": "21"
 }, {
 	"id": "2322",
 	"name": "Mehgaon",
@@ -17909,7 +17909,7 @@
 }, {
 	"id": "4478",
 	"name": "Medak",
-	"state_id": "36);"
+	"state_id": "36"
 }, {
 	"id": "4479",
 	"name": "Medchal",
@@ -26509,7 +26509,7 @@
 }, {
 	"id": "6628",
 	"name": "Gowrie Junction",
-	"state_id": "269);"
+	"state_id": "269"
 }, {
 	"id": "6629",
 	"name": "Gympie",
@@ -34877,7 +34877,7 @@
 }, {
 	"id": "8720",
 	"name": "Ibipeba",
-	"state_id": "516);"
+	"state_id": "516"
 }, {
 	"id": "8721",
 	"name": "Ibirapitanga",
@@ -42865,7 +42865,7 @@
 }, {
 	"id": "10717",
 	"name": "Saint-Damase",
-	"state_id": "673);"
+	"state_id": "673"
 }, {
 	"id": "10718",
 	"name": "Saint-Damien-de-Buckland",
@@ -51273,7 +51273,7 @@
 }, {
 	"id": "12819",
 	"name": "San Pablo de Borbur",
-	"state_id": "781);"
+	"state_id": "781"
 }, {
 	"id": "12820",
 	"name": "Santa Maria",
@@ -59389,7 +59389,7 @@
 }, {
 	"id": "14848",
 	"name": "Jirkov",
-	"state_id": "936);"
+	"state_id": "936"
 }, {
 	"id": "14849",
 	"name": "Kadan",
@@ -67629,7 +67629,7 @@
 }, {
 	"id": "16908",
 	"name": "Anjalankoski",
-	"state_id": "1162);"
+	"state_id": "1162"
 }, {
 	"id": "16909",
 	"name": "Hamina",
@@ -74993,7 +74993,7 @@
 }, {
 	"id": "18749",
 	"name": "Ansbach",
-	"state_id": "1357);"
+	"state_id": "1357"
 }, {
 	"id": "18750",
 	"name": "Aschaffenburg",
@@ -82705,7 +82705,7 @@
 }, {
 	"id": "20677",
 	"name": "Upernavik Kujalleq",
-	"state_id": "1491);"
+	"state_id": "1491"
 }, {
 	"id": "20678",
 	"name": "Ikerasak",
@@ -90345,7 +90345,7 @@
 }, {
 	"id": "22587",
 	"name": "Monteferrante",
-	"state_id": "1826);"
+	"state_id": "1826"
 }, {
 	"id": "22588",
 	"name": "Montelapiano",
@@ -97841,7 +97841,7 @@
 }, {
 	"id": "24462",
 	"name": "Sasayama",
-	"state_id": "1930);"
+	"state_id": "1930"
 }, {
 	"id": "24463",
 	"name": "Sumoto",
@@ -105897,7 +105897,7 @@
 }, {
 	"id": "26476",
 	"name": "Roodt-sur-Syr",
-	"state_id": "2236);"
+	"state_id": "2236"
 }, {
 	"id": "26477",
 	"name": "Wasserbillig",
@@ -113409,7 +113409,7 @@
 }, {
 	"id": "28354",
 	"name": "Temascalcingo",
-	"state_id": "2442);"
+	"state_id": "2442"
 }, {
 	"id": "28355",
 	"name": "Temoaya",
@@ -121017,7 +121017,7 @@
 }, {
 	"id": "30256",
 	"name": "Zaandam",
-	"state_id": "2594);"
+	"state_id": "2594"
 }, {
 	"id": "30257",
 	"name": "Zaanstad",
@@ -128949,7 +128949,7 @@
 }, {
 	"id": "32239",
 	"name": "Dagupan",
-	"state_id": "2848);"
+	"state_id": "2848"
 }, {
 	"id": "32240",
 	"name": "Laoag",
@@ -136777,7 +136777,7 @@
 }, {
 	"id": "34196",
 	"name": "Candesti",
-	"state_id": "2950);"
+	"state_id": "2950"
 }, {
 	"id": "34197",
 	"name": "Ciocanesti",
@@ -144641,7 +144641,7 @@
 }, {
 	"id": "36162",
 	"name": "Selco",
-	"state_id": "2986);"
+	"state_id": "2986"
 }, {
 	"id": "36163",
 	"name": "Starodub",
@@ -152381,7 +152381,7 @@
 }, {
 	"id": "38097",
 	"name": "Thabazimbi",
-	"state_id": "3244);"
+	"state_id": "3244"
 }, {
 	"id": "38098",
 	"name": "Thohoyandou",
@@ -160101,7 +160101,7 @@
 }, {
 	"id": "40027",
 	"name": "Tastur",
-	"state_id": "3634);"
+	"state_id": "3634"
 }, {
 	"id": "40028",
 	"name": "Zahrat Madina",
@@ -167969,7 +167969,7 @@
 }, {
 	"id": "41994",
 	"name": "Weymouth",
-	"state_id": "3842);"
+	"state_id": "3842"
 }, {
 	"id": "41995",
 	"name": "Whitefield",
@@ -175501,7 +175501,7 @@
 }, {
 	"id": "43877",
 	"name": "Sun City Center",
-	"state_id": "3930);"
+	"state_id": "3930"
 }, {
 	"id": "43878",
 	"name": "Sunny Isles",
@@ -183101,7 +183101,7 @@
 }, {
 	"id": "45777",
 	"name": "Stow",
-	"state_id": "3959);"
+	"state_id": "3959"
 }, {
 	"id": "45778",
 	"name": "Streetsboro",
@@ -190297,7 +190297,7 @@
 }, {
 	"id": "47576",
 	"name": "Zvishavane",
-	"state_id": "4120);"
+	"state_id": "4120"
 }, {
 	"id": "47577",
 	"name": "Manchester",
